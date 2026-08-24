@@ -1,0 +1,6 @@
+{
+  "name": "RizzEngine",
+  "description": "Culturally-aware texting coach analyzing chat screenshots and generating humanized, high-rizz response options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
